@@ -2,7 +2,7 @@ unit-tck
 ========
 JSR 385 Technology Compatibility Kit (TCK) 
 
-[![Maven Central](https://img.shields.io/maven-central/v/tech.units/unit-tck.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22tech.units%22%20AND%20a:%22unit-tck%22)
+[![Download](https://api.bintray.com/packages/unitsofmeasurement/maven/tech.units%3Aunit-tck/images/download.svg)](https://bintray.com/unitsofmeasurement/maven/tech.units%3Aunit-tck/_latestVersion)
 [![Circle CI](https://circleci.com/gh/unitsofmeasurement/unit-tck.svg?style=svg)](https://circleci.com/gh/unitsofmeasurement/unit-tck)
 [![Stability: Active](https://masterminds.github.io/stability/active.svg)](https://masterminds.github.io/stability/active.html)
 [![License](http://img.shields.io/badge/license-BSD3-blue.svg?style=flat-square)](http://opensource.org/licenses/BSD-3-Clause)
