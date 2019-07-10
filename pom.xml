@@ -149,6 +149,9 @@
                         <currentYear>2019</currentYear>
                     </properties>
                     <excludes>
+                    	<exclude>.editorconfig</exclude>
+						<exclude>.gitattributes</exclude>
+						<exclude>.circleci/**</exclude>
                         <exclude>**/pom.xml</exclude>
                         <exclude>**/README</exclude>
                         <exclude>**/settings.xml</exclude>
